@@ -1,3 +1,3 @@
-from hello_python import hello
+from hello_python import greet
 
-hello("Hello World")
+greet("Hello World")

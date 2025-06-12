@@ -1,8 +1,8 @@
 print("Hello World")
 
 
-def hello(n):
+def greet(n):
     print(n)
 
-# hello(3)
-hello("World")
+# greet(3)
+greet("hey buddy")
