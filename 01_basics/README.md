@@ -57,8 +57,6 @@ python_code.py      ->      Byte Code       ->      python VM
 
 - Set : set('abc'), {'a', 'b', 'c'}
 
-- File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
-
 - Boolean : True, False
 
 - None : None
