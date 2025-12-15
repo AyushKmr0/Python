@@ -49,7 +49,7 @@ for letter in game:
 path = 'c:\\user\\pwd'
 print(path)
 
-path = r"c:\user\pwd"
+path = r"c:\user\pwd"   # r -> raw
 print(path)
 
 

@@ -4,7 +4,8 @@ print(lang[2])
 
 
 # lang[1] = 'Python' -> - tuple is immutable, - fixed in the memory, - references can be changed but the existing one will not be changed
-# print(lang) 
+
+print(lang) 
 
 more_lang = ('Python', 'Go')
 

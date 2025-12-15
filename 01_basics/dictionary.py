@@ -33,6 +33,7 @@ print(capitals)
 
 # { {}, {}, {} }
 print("\n.....................................................\n")
+
 tea_shop = {
     "Chai": {"Masala":"Spicy", "Ginger":"Zesty"},
     "Tea": {"Green":"Mild", "Black":"Strong"},

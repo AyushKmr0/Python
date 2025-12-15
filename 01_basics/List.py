@@ -26,7 +26,6 @@ for l in lang:
 
 if 'Java' in lang:
     print("I have Java")
-
 else:
     print("I dont have Java")
 
@@ -47,5 +46,5 @@ print(lang_copy)
 print(lang)
 
 
-squared_num = [x**2 for x in range(10)]
+squared_num = [x**2 for x in range(10)] # => List Comprehension
 print(squared_num)
